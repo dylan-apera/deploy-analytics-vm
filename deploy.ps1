@@ -1,4 +1,4 @@
-$rg = 'rg-eas-demo'
+$rg = 'analytics-vm-rg01'
 $location = 'australiacentral'
 
 az group create --name $rg --location $location
